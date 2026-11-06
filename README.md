@@ -16,9 +16,8 @@ This repository serves as a hands-on scripting portfolio, documenting the develo
 
 ```
 devops-scripts/
-├── bash/
-├── python/
-├── powershell/
+├── <project name here>/
+├── .gitignore
 └── README.md
 ```
 
@@ -26,17 +25,9 @@ Each project will have its own directory and README describing its purpose, prer
 
 ### Projects
 
-#### Bash
-
-``` Projects will be added as they are developed. ```
-
-#### Python
-
-``` Projects will be added as they are developed. ```
-
-#### PowerShell
-
-``` Projects will be added as they are developed. ```
+| Project | Description |
+|---------|-------------|
+| Project | Description |
 
 ### Development Approach
 
